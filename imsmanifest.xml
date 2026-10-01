@@ -1,0 +1,23 @@
+<manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" identifier="com.scorm.manifesttemplates.scorm12" version="1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                                                                                                                                                                                                                                                               http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                                                                                                                                                                                                                                                               http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+
+  </metadata>
+  <organizations default="B0">
+    <organization identifier="B0">
+      <title>Torre de retracción en la Ender 3 V3 SE</title>
+      <item identifier="i1" identifierref="cmuoyv5c6000v06o4iiqghbov" isvisible="true">
+        <title>Torre de retracción en la Ender 3 V3 SE</title>
+        <adlcp:datafromlms>04bea23f-a8d0-4d37-b658-656e76780716</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="cmuoyv5c6000v06o4iiqghbov" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html" />
+    </resource>
+  </resources>
+</manifest>
